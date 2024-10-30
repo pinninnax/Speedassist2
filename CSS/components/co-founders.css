@@ -1,0 +1,12 @@
+.co-founders {
+    display: flex;
+    margin: 20px 0;
+}
+
+.co-founder {
+    width: 100px;
+    height: auto;
+    margin: 0 10px;
+    border-radius: 50%;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2); 
+}
